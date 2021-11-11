@@ -56,7 +56,7 @@ THEN I am taken to the corresponding section of the README
 
 # Contact Me
 
-Linda Martinez [lindanmjw@gmail.com](mailto:lindanmjw@gmail.com)
+Linda Martinez [linda@gmail.com](mailto:linda@gmail.com)
 
 
 
